@@ -1,2 +1,1 @@
-class Praktikum {
-}
+class Converter {}
